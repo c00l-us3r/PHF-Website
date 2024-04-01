@@ -7,8 +7,13 @@ CS 480
 Capstone Project for CS 481 at Central Washington University
 
 Members:
-Elijah Johnson
-Kyle Garcia
+
 Dillon Bridgewater
+
 Anthony Briones
+
+Kyle Garcia
+
+Elijah Johnson
+
 Jacob Thorton
